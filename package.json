@@ -10,13 +10,10 @@
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
-<<<<<<< HEAD
     "@websanova/vue-auth": "github:websanova/vue-auth",
     "axios": "^0.19.2",
     "izitoast": "^1.4.0",
     "jquery": "^3.4.1",
-=======
->>>>>>> parent of bebe031... commmit code
     "vue": "^2.5.11",
     "vue-router": "^3.1.6"
   },
