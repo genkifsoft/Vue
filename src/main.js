@@ -22,6 +22,7 @@ Vue.mixin(mixin);
 // window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 // require('./library/errorHandler');
 
+import router from './router'
 
 new Vue({
   el: '#app',
